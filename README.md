@@ -1,5 +1,5 @@
-![image](![SSEXCEL](https://github.com/DimejiSan/Sales_and_cutomer_loyalty_dashboard/assets/140491071/0866e64d-74bd-40b5-a2ba-aae22443a0ca))
-
+![image](https://github.com/DimejiSan/Sales_and_cutomer_loyalty_dashboard/blob/main/Excel%20Sales%20dashboard%20project/SSEXCEL%2B1.jpg)
+![image](https://github.com/DimejiSan/Sales_and_cutomer_loyalty_dashboard/blob/main/Excel%20Sales%20dashboard%20project/SSEXCEL%2B1.jpg)
 
 # Sales Dashboard Project:
 # Sales_and_cutomer_loyalty_dashboard
